@@ -1,0 +1,9 @@
+{
+	"name": "lingaAdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a188420-baa9-4924-b1a5-0de1015866ea",
+		"tenantId": "d361d43c-758a-46a8-a03e-126786720202"
+	}
+}
